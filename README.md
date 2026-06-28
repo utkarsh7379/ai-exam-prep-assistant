@@ -1,35 +1,60 @@
-# AI Exam Prep Assistant
+# 📚 AI Exam Prep Assistant
 
-An AI-powered tool that converts engineering topics into structured, exam-ready answers.
 
-## 🚀 Features
 
-* Generates 7-mark and 10-mark answers
-* Creates short revision notes
-* Suggests important exam questions
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat)
 
-## 🧠 How it works
 
-User enters a topic → AI generates structured answers using prompt engineering.
 
-## 🛠 Tech Stack
 
-* Python
-* Streamlit
-* OpenAI API
+![AI](https://img.shields.io/badge/AI-Powered-orange?style=flat)
 
-## ▶️ How to Run
 
-1. Install dependencies:
-   pip install streamlit openai
 
-2. Run the app:
-   streamlit run app.py
 
-## 📌 Use Case
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
-Built to help engineering students prepare efficiently for university exams.
 
-## 📷 Demo
 
-(Add your demo video link here)
+An AI-powered tool that generates **exam-ready answers** for engineering students. Built using Python, it helps students revise quickly and prepare effectively for exams.
+
+---
+
+## ✨ Features
+
+- 🎯 **Exam-Ready Answers** — Auto generates precise answers
+- 📖 **Topic-wise Coverage** — Organized by subjects
+- ⚡ **Quick Revision** — Save time before exams
+- 🤖 **AI Powered** — Smart answer generation
+- 🎓 **Engineering Focused** — Made for BTech students
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Language | Python 3.8+ |
+| AI/ML | NLP, AI Libraries |
+| Interface | Command Line / Web |
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/utkarsh7379/ai-exam-prep-assistant.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+python app.py
+
+👨‍💻 Author
+Utkarsh Dwivedi
+[
+�
+Load image
+](https://linkedin.com/in/utkarsh-dwivedi-6a36b302)
